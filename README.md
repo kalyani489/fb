@@ -1,3 +1,3 @@
 # fb
 
-This is a Fcaebook page for trial.
+This is a Facebook page for trial.
